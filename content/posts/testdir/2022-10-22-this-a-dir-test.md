@@ -10,4 +10,4 @@ draft: false
 
 
 
-![mandala9](./mandala9.png)
+![mandala9](mandala9.png)
