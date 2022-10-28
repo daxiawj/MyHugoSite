@@ -1,5 +1,5 @@
 ---
-title: "2022 10 22 This a Dir Test"
+title: "This is a Img Test"
 date: 2022-10-22T11:00:00+08:00
 draft: false
 ---
@@ -10,4 +10,4 @@ draft: false
 
 
 
-![mandala9](mandala9.png)
+![mandala9](/images/mandala9.png)
